@@ -2641,7 +2641,7 @@
 					z-index: 1;
 					opacity: 0.8;
 				}
-
+/* 
 				.tiles article > .image:after {
 					-moz-pointer-events: none;
 					-webkit-pointer-events: none;
@@ -2664,7 +2664,7 @@
 					background-size: 100% 100%;
 					opacity: 0.25;
 					z-index: 2;
-				}
+				} */
 
 			.tiles article > a {
 				display: -moz-flex;
